@@ -68,14 +68,13 @@ The final score is normalized and used to rank branches for audit prioritization
 
 ### Executive Dashboard
 
-(Add Page 1 Screenshot Here)
+![Executive Dashboard](Screenshot(134).png)
 
 ### Branch Level Audit Analysis
 
-(Add Page 2 Screenshot Here)
+![Branch Level Audit Analysis](Screenshot(135).png)
 
 ---
-
 ## 🚀 Project Workflow
 
 Raw Data
